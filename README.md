@@ -35,10 +35,10 @@ Ticketing|	Jira Service Management
 
 | Ticket | Scenario |
 |---|---|
-| AD-001 | Removing a workstation from the domain |
-| AD-002 | Joining a workstation to the domain |
-| AD-003 | Creating a new domain user |
-| AD-004 | Resetting a user's password |
-| AD-005 | Unlocking an account |
-| NET-001 | Troubleshooting incorrect DNS settings |
-| NET-002 | Correcting a static IP misconfiguration |
+| [AD-001](tickets/AD-001.md) | Removing a workstation from the domain |
+| [AD-002](tickets/AD-002.md) | Joining a workstation to the domain |
+| [AD-003](tickets/AD-003.md) | Creating a new domain user |
+| [AD-004](tickets/AD-004.md) | Resetting a user's password |
+| [AD-005](tickets/AD-005.md) | Unlocking an account |
+| [NET-001](tickets/NET-001.md) | Troubleshooting incorrect DNS settings |
+| [NET-002](tickets/NET-002.md) | Correcting a static IP misconfiguration |
